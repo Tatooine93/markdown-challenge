@@ -8,11 +8,11 @@ That is the true burden of all masters.”* – Yoda
 ## "I love learning"
 
 | Question | Answer |
-| --- | --- |
+| ------ | ------ |
 | Birthday | 25/08 |
 | Fav Color | Red |
 | Fav Food | Pasta |
-| Pinneapple on pizza | <lu><li> [x] Yes</li> <li> [ ] No </li></lu> |
+| Pinneapple on pizza | <lu><li> [ ] Yes</li> <li> [x] No </li></lu> |
 
 ### Hobbies
 
@@ -35,8 +35,6 @@ you are in trouble, i always try my best to help you !
 J'ai failli monter dans la voiture d'un inconnu 
 pesant que c'était celle de mes parents
 
-###### TL;DR
+Conclusion: Always double check
 
-Always double check
-
-<< [previous](https://github.com/PREVIOUS_STUDENT/markdown-challenge/README.md) || ![Antoine Nowak](git@github.com:Tatooine93/markdown-challenge.git/README.md) || [next](https://github.com/NEXT_STUDENT/markdown-challenge/README.md) >>
+<< ![previous](https://github.com/PREVIOUS_STUDENT/markdown-challenge/README.md) || ![Antoine Nowak](git@github.com:Tatooine93/markdown-challenge.git/README.md) || ![next](https://github.com/NEXT_STUDENT/markdown-challenge/README.md) >>
