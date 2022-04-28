@@ -8,7 +8,7 @@ That is the true burden of all masters.”* – Yoda
 ## "I love learning"
 
 | Birthday | 25/08 |
-| --- | --- | --- |
+| --- | --- |
 | Fav Color | Red |
 | Fav Food | Pasta |
 | Pinneapple on pizza | <lu><li> [x] Yes</li> <li> [ ] No </li></lu> |
