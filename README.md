@@ -12,7 +12,7 @@ That is the true burden of all masters.”* – Yoda
 | Birthday | 25/08 |
 | Fav Color | Red |
 | Fav Food | Pasta |
-| Pinneapple on pizza | <lu><li>  [x] Yes</li> <li>  [ ] No </li></lu> |
+| Pinneapple on pizza | <lu><li> [x] Yes</li> <li> [ ] No </li></lu> |
 
 ### Hobbies
 
@@ -39,4 +39,4 @@ pesant que c'était celle de mes parents
 
 Always double check
 
-<< [previous](https://github.com/PREVIOUS_STUDENT/markdown-challenge/README.md) || [Antoine Nowak](git@github.com:Tatooine93/markdown-challenge.git/README.md) || [next](https://github.com/NEXT_STUDENT/markdown-challenge/README.md) >>
+<< [previous](https://github.com/PREVIOUS_STUDENT/markdown-challenge/README.md) || ![Antoine Nowak](git@github.com:Tatooine93/markdown-challenge.git/README.md) || [next](https://github.com/NEXT_STUDENT/markdown-challenge/README.md) >>
