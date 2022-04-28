@@ -3,26 +3,27 @@
 *“The greatest teacher, failure is. Luke, we are what they grow beyond.
 That is the true burden of all masters.”* – Yoda
 
-![alt text](/home/becode/Downloads/Wankul.jpg "Profile Pic")
+![alt text](https://github.com/Tatooine93/markdown-challenge/Wankul.png "Profile Pic")
 
 ## "I love learning"
 
 |Birthday|25/08|
+|---|---|---|
 |Fav Color|Red|
 |Fav Food|Pasta|
 |Pinneapple on pizza|<lu><li> [x] Yes</li> / <li> [] No </li></lu>|
 
 ### Hobbies
 
-*Gaming
-	*Escape From Tarkon
-	*Hunt ShwoDown
-	*PUBG
-	*War Thunder
-*Movie
-	*Gladiator
-	*Jurasik Park
-*DIY
+* Gaming
+	* Escape From Tarkon
+	* Hunt ShwoDown
+	* PUBG
+	* War Thunder
+* Movie
+	* Gladiator
+	* Jurasik Park
+* DIY
 
 #### You can always count on me when...
 
