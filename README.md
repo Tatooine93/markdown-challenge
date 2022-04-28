@@ -12,7 +12,7 @@ That is the true burden of all masters.”* – Yoda
 | Birthday | 25/08 |
 | Fav Color | Red |
 | Fav Food | Pasta |
-| Pinneapple on pizza | <lu><li> [ ] Yes</li> <li> [x] No </li></lu> |
+| Pinneapple on pizza | <ul><li> [ ] Yes</li> <li> [x] No </li></ul> |
 
 ### Hobbies
 
